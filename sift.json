@@ -1,19 +1,19 @@
 {
-    "version": "0.3.1",
+    "version": "0.3.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Anshika2203/sift/releases/download/v0.3.1/sift_0.3.1_windows_amd64.zip",
+            "url": "https://github.com/Anshika2203/sift/releases/download/v0.3.2/sift_0.3.2_windows_amd64.zip",
             "bin": [
                 "sift.exe"
             ],
-            "hash": "219a5e676d499acba3d292f39c778c4ffca06a1c7d56efa6f283ed45c77446b4"
+            "hash": "8acb6206e31ced588bfb943929defdeccd6319d47f5c3cc925b1089d86e9ed92"
         },
         "arm64": {
-            "url": "https://github.com/Anshika2203/sift/releases/download/v0.3.1/sift_0.3.1_windows_arm64.zip",
+            "url": "https://github.com/Anshika2203/sift/releases/download/v0.3.2/sift_0.3.2_windows_arm64.zip",
             "bin": [
                 "sift.exe"
             ],
-            "hash": "1b2ab6440de5972f15e4a5a9635551f488f2804301e6a118cdac77574f878635"
+            "hash": "c933e82a4412e5e75f7feffe925182cf16397b015293fa8288cd55b564c33f59"
         }
     },
     "homepage": "https://github.com/Anshika2203/sift",
