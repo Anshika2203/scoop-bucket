@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Anshika2203/sift/releases/download/v0.1.0/sift_0.1.0_windows_amd64.zip",
+            "bin": [
+                "sift.exe"
+            ],
+            "hash": "1996484dc2a6af486a8b44cdf1802f0ff77d85fb70ecfdf5f88679bd9908bc38"
+        },
+        "arm64": {
+            "url": "https://github.com/Anshika2203/sift/releases/download/v0.1.0/sift_0.1.0_windows_arm64.zip",
+            "bin": [
+                "sift.exe"
+            ],
+            "hash": "bcfa858547f8dadee15d1ed15f3fcc4c88a432c337e22b1a6626e3557237ea20"
+        }
+    },
+    "homepage": "https://github.com/Anshika2203/sift",
+    "license": "MIT",
+    "description": "A fast, interactive command-line fuzzy finder."
+}
